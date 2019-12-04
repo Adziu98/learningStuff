@@ -18,6 +18,8 @@ public class Hobbici {
             }
             System.out.println(h[z].imie + " jest ");
             System.out.println("dobrym imieniem dla hobbita");
+
+            System.out.println("dobrym imieniem dla hobbita test");
         }
     }
 }
